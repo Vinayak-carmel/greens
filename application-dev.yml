@@ -23,7 +23,7 @@ spring:
   security:
     user:
       name: root
-      password: P@ssw0rd
+      password: Zain@hammagi33
       
 upload-path:
   profile-pic-path: /Users/ronaldphilip/olive-uploads      
